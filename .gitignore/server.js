@@ -78,4 +78,5 @@ client.on('ready', function() {
 client.on("ready",()=>{
     console.log(`Connecté en tant que ${client.user.tag}!`);
 });
- client.login(process.env.TOKEN)
+ client.login(process.env. TOKEN)
+NjI3NDYzMjU4NzE4MzM5MDky.XY9Asg.NZGwoRDFZS-3rYdkgEC1LJS9xd8
